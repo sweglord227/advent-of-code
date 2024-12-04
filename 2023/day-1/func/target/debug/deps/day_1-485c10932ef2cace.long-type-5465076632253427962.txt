@@ -1,0 +1,2 @@
+Map<FilterMap<Enumerate<std::slice::Iter<'_, &str>>, {closure@src/main.rs:17:29: 17:53}>, {closure@src/main.rs:23:22: 23:53}>
+Map<FilterMap<Enumerate<core::slice::iter::Iter<'_, &str>>, {closure@src/main.rs:17:29: 17:53}>, {closure@src/main.rs:23:22: 23:53}>

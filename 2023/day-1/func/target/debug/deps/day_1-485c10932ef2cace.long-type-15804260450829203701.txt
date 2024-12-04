@@ -1,0 +1,2 @@
+Map<FilterMap<Enumerate<std::slice::IterMut<'_, &'static str>>, {closure@src/main.rs:17:29: 17:52}>, {closure@src/main.rs:23:22: 23:53}>
+Map<FilterMap<Enumerate<core::slice::iter::IterMut<'_, &'static str>>, {closure@src/main.rs:17:29: 17:52}>, {closure@src/main.rs:23:22: 23:53}>

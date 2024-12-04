@@ -1,0 +1,9 @@
+[package]
+name = "day-2"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+itertools = "0.13.0"
+serde = "1.0.203"
+strum = { version = "0.26.3", features = ["derive"] }

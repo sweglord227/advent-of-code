@@ -1,0 +1,1 @@
+Map<Tuples<FilterMap<SplitWhitespace<'_>, {closure@src/main.rs:16:25: 16:31}>, (i32, i32)>, {closure@src/main.rs:18:18: 18:26}>
